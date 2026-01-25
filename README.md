@@ -16,6 +16,8 @@ When I’m not coding, you’ll usually find me gaming, traveling, or exploring 
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff"> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> 
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"> 
+<img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white">
+
 
 ## GitHub Stats
 
