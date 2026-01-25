@@ -1,5 +1,3 @@
-## About Me
-
 Hi, I’m Arunav Kishor, a passionate full-stack web developer who loves building scalable, high-performance, and user-centric web applications. With a strong grasp of both frontend and backend technologies, I enjoy turning complex problems into simple, elegant solutions.
 
 When I’m not coding, you’ll usually find me gaming, traveling, or exploring new places, drawing inspiration from new experiences along the way.
