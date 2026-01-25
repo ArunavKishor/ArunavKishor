@@ -17,6 +17,8 @@ When I’m not coding, you’ll usually find me gaming, traveling, or exploring 
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> 
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"> 
 <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white">
+
 
 
 ## GitHub Stats
@@ -29,4 +31,15 @@ When I’m not coding, you’ll usually find me gaming, traveling, or exploring 
 
 ## Connect with me
 
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/arunavkishor/" target="_blank">Arunav Kishor</a> Email: arunavkishor@gmail.com</p>
+<p align="center">
+  🔗 LinkedIn: 
+  <a href="https://www.linkedin.com/in/arunavkishor/" target="_blank">Arunav Kishor</a>
+</p>
+
+<p align="center">
+  📧 Email: 
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=arunavkishor@gmail.com" target="_blank">
+    arunavkishor@gmail.com
+  </a>
+</p>
+
