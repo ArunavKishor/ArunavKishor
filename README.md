@@ -6,7 +6,7 @@ When I’m not coding, you’ll usually find me gaming, traveling, or exploring 
 
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
 <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"> 
+<img src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
 <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff"> 
 <img src="https://img.shields.io/badge/Scratch-4D97FF?logo=scratch&logoColor=fff"> 
