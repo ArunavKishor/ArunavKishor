@@ -16,16 +16,15 @@ When I’m not coding, you’ll usually find me gaming, traveling, or exploring 
     <td><img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff"></td>
-    </tr>
+  </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"></td>
     <td><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></td>
-  </tr>
-  <tr>
     <td><img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white"></td>
   </tr>
 </table>
+
 
 
 
