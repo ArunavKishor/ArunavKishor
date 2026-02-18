@@ -4,8 +4,6 @@ When I’m not coding, you’ll usually find me gaming, traveling, or exploring 
 
 ## My Skills
 
-## My Skills
-
 
 <p >
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"/>
